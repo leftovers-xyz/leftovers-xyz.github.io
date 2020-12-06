@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Posts on LeftOvers</title>
@@ -15,12 +14,10 @@
             <pubDate>Sun, 23 Jun 2019 23:48:04 +0300</pubDate>
             
             <guid>https://leftovers.xyz/posts/hello_world/</guid>
-            <description>Kakkaa t.Jake more is to come :D  </description>
-            <content type="html"><![CDATA[<p><img src="https://cultofthepartyparrot.com/parrots/hd/parrot.gif" alt="Birdie" /> Kakkaa t.Jake <img src="https://cultofthepartyparrot.com/parrots/hd/parrot.gif" alt="Birdie" /></p>
-
-<pre><code class="language-css">more is to come :D
-</code></pre>
-]]></content>
+            <description>Kakkaa t.Jake more is to come :D </description>
+            <content type="html"><![CDATA[<p><img src="https://cultofthepartyparrot.com/parrots/hd/parrot.gif" alt="Birdie"> Kakkaa t.Jake <img src="https://cultofthepartyparrot.com/parrots/hd/parrot.gif" alt="Birdie"></p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-css" data-lang="css"><span style="color:#f92672">more</span> <span style="color:#f92672">is</span> <span style="color:#f92672">to</span> <span style="color:#f92672">come</span> :<span style="color:#a6e22e">D</span>
+</code></pre></div>]]></content>
         </item>
         
     </channel>

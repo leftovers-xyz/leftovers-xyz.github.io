@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>LeftOvers</title>
@@ -6,18 +6,14 @@
     <description>Recent content on LeftOvers</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 23 Jun 2019 23:48:04 +0300</lastBuildDate>
-    
-	<atom:link href="https://leftovers.xyz/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sun, 23 Jun 2019 23:48:04 +0300</lastBuildDate><atom:link href="https://leftovers.xyz/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello_world</title>
       <link>https://leftovers.xyz/posts/hello_world/</link>
       <pubDate>Sun, 23 Jun 2019 23:48:04 +0300</pubDate>
       
       <guid>https://leftovers.xyz/posts/hello_world/</guid>
-      <description>Kakkaa t.Jake more is to come :D  </description>
+      <description>Kakkaa t.Jake more is to come :D </description>
     </item>
     
     <item>
@@ -26,7 +22,7 @@
       <pubDate>Sun, 23 Jun 2019 23:36:33 +0300</pubDate>
       
       <guid>https://leftovers.xyz/about/</guid>
-      <description> LeftOvers is a hacking team from Finland. The team members consist of old colleagues who still want to do hacking with each other, even if our careers have gone separate ways.
+      <description>LeftOvers is a hacking team from Finland. The team members consist of old colleagues who still want to do hacking with each other, even if our careers have gone separate ways.
 Achievements 2019  Ordered stickers Bought leftovers.xyz domain Came third in Sanoma Pro Hackday Participated in LähiTapiola HackDay  2020  3rd place in Nokia HackAthon 2020 Updated (somewhat) updated website  </description>
     </item>
     
