@@ -1,33 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
-  <url>
-    <loc>https://leftovers.xyz/posts/hello_world/</loc>
-    <lastmod>2019-06-23T23:48:04+03:00</lastmod>
-  </url>
-  
   <url>
     <loc>https://leftovers.xyz/</loc>
     <lastmod>2019-06-23T23:48:04+03:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://leftovers.xyz/posts/hello_world/</loc>
+    <lastmod>2019-06-23T23:48:04+03:00</lastmod>
+  </url><url>
     <loc>https://leftovers.xyz/posts/</loc>
     <lastmod>2019-06-23T23:48:04+03:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://leftovers.xyz/about/</loc>
     <lastmod>2019-06-23T23:36:33+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://leftovers.xyz/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://leftovers.xyz/blog/</loc>
+  </url><url>
+    <loc>https://leftovers.xyz/series/</loc>
+  </url><url>
     <loc>https://leftovers.xyz/tags/</loc>
   </url>
-  
 </urlset>

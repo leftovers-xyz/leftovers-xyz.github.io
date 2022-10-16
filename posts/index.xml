@@ -1,10 +1,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Posts on LeftOvers</title>
+        <title>Posts on Hello Friend NG</title>
         <link>https://leftovers.xyz/posts/</link>
-        <description>Recent content in Posts on LeftOvers</description>
+        <description>Recent content in Posts on Hello Friend NG</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
+        <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
         <lastBuildDate>Sun, 23 Jun 2019 23:48:04 +0300</lastBuildDate>
         <atom:link href="https://leftovers.xyz/posts/index.xml" rel="self" type="application/rss+xml" />
         
@@ -16,7 +17,7 @@
             <guid>https://leftovers.xyz/posts/hello_world/</guid>
             <description>Kakkaa t.Jake more is to come :D </description>
             <content type="html"><![CDATA[<p><img src="https://cultofthepartyparrot.com/parrots/hd/parrot.gif" alt="Birdie"> Kakkaa t.Jake <img src="https://cultofthepartyparrot.com/parrots/hd/parrot.gif" alt="Birdie"></p>
-<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-css" data-lang="css"><span style="color:#f92672">more</span> <span style="color:#f92672">is</span> <span style="color:#f92672">to</span> <span style="color:#f92672">come</span> :<span style="color:#a6e22e">D</span>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-css" data-lang="css"><span style="color:#f92672">more</span> <span style="color:#f92672">is</span> <span style="color:#f92672">to</span> <span style="color:#f92672">come</span> :<span style="color:#a6e22e">D</span>
 </code></pre></div>]]></content>
         </item>
         
